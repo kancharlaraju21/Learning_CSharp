@@ -1,0 +1,13 @@
+D:\c#\PraticeCoding\PraticeCoding\bin\Debug\netcoreapp3.1\PraticeCoding.exe
+D:\c#\PraticeCoding\PraticeCoding\bin\Debug\netcoreapp3.1\PraticeCoding.deps.json
+D:\c#\PraticeCoding\PraticeCoding\bin\Debug\netcoreapp3.1\PraticeCoding.runtimeconfig.json
+D:\c#\PraticeCoding\PraticeCoding\bin\Debug\netcoreapp3.1\PraticeCoding.runtimeconfig.dev.json
+D:\c#\PraticeCoding\PraticeCoding\bin\Debug\netcoreapp3.1\PraticeCoding.dll
+D:\c#\PraticeCoding\PraticeCoding\bin\Debug\netcoreapp3.1\PraticeCoding.pdb
+D:\c#\PraticeCoding\PraticeCoding\obj\Debug\netcoreapp3.1\PraticeCoding.csprojAssemblyReference.cache
+D:\c#\PraticeCoding\PraticeCoding\obj\Debug\netcoreapp3.1\PraticeCoding.AssemblyInfoInputs.cache
+D:\c#\PraticeCoding\PraticeCoding\obj\Debug\netcoreapp3.1\PraticeCoding.AssemblyInfo.cs
+D:\c#\PraticeCoding\PraticeCoding\obj\Debug\netcoreapp3.1\PraticeCoding.csproj.CoreCompileInputs.cache
+D:\c#\PraticeCoding\PraticeCoding\obj\Debug\netcoreapp3.1\PraticeCoding.dll
+D:\c#\PraticeCoding\PraticeCoding\obj\Debug\netcoreapp3.1\PraticeCoding.pdb
+D:\c#\PraticeCoding\PraticeCoding\obj\Debug\netcoreapp3.1\PraticeCoding.genruntimeconfig.cache
