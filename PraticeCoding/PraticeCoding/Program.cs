@@ -6,7 +6,8 @@ namespace PraticeCoding
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string name = "Raju";
+            Console.WriteLine(name);
         }
     }
 }

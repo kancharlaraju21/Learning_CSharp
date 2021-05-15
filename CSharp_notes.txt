@@ -1,0 +1,52 @@
+project name  and namespace can be different or same -> we can run code
+project name and class name can be different or same -> we can run code
+-----
+Langague is case-sensitve ( Employee and employee are different variables )
+namespace -> block of classes can contain other namespace too
+class -> block of methods 
+WriteLine() -> prints on new line
+Write() ->  prints on same line
+-----
+Implicit Casting (automatically) - converting a smaller type to a larger type size
+char -> int -> long -> float -> double
+
+int myInt = 9;
+double myDouble = myInt;       // Automatic casting: int to double
+
+Console.WriteLine(myInt);      // Outputs 9
+Console.WriteLine(myDouble);   // Outputs 9
+
+-----
+
+Explicit Casting (manually) - converting a larger type to a smaller size type
+double -> float -> long -> int -> char
+
+double myDouble = 9.78;
+int myInt = (int) myDouble;    // Manual casting: double to int
+
+Console.WriteLine(myDouble);   // Outputs 9.78
+Console.WriteLine(myInt);      // Outputs 9
+
+-----
+It is also possible to send arguments with the key: value syntax.
+static void MyMethod(string child1, string child2, string child3) 
+{
+  Console.WriteLine("The youngest child is: " + child3);
+}
+
+static void Main(string[] args)
+{
+  MyMethod(child3: "John", child1: "Liam", child2: "Liam");
+}
+-----
+the constructor name must match the class name, and it cannot have a return type (like void or int).
+Also note that the constructor is called when the object is created.
+All classes have constructors by default: if you do not create a class constructor yourself, C# creates one for you.
+ However, then you are not able to set initial values for fields.
+-----
+public -> The code is accessible for all classes
+private -> The code is only accessible within the same class
+protected -> The code is accessible within the same class, or in a class that is inherited from that class.
+internal -> The code is only accessible within its own assembly, but not from another assembly.
+There's also two combinations: protected internal and private protected.
+-----

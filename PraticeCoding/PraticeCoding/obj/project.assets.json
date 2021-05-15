@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c#\\PraticeCoding\\PraticeCoding\\PraticeCoding.csproj",
+      "projectUniqueName": "D:\\c#\\Learning_CSharp\\PraticeCoding\\PraticeCoding\\PraticeCoding.csproj",
       "projectName": "PraticeCoding",
-      "projectPath": "D:\\c#\\PraticeCoding\\PraticeCoding\\PraticeCoding.csproj",
+      "projectPath": "D:\\c#\\Learning_CSharp\\PraticeCoding\\PraticeCoding\\PraticeCoding.csproj",
       "packagesPath": "C:\\Users\\Raju\\.nuget\\packages\\",
-      "outputPath": "D:\\c#\\PraticeCoding\\PraticeCoding\\obj\\",
+      "outputPath": "D:\\c#\\Learning_CSharp\\PraticeCoding\\PraticeCoding\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Raju\\AppData\\Roaming\\NuGet\\NuGet.Config",
